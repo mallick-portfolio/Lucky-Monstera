@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "img": "https://i.ibb.co/XfP5mxd/user-4.png",
+    "rating": 4,
+    "userReview": "Small, upscale, and dressed in prestige branding, these entry-level luxury cars often promise more than they deliver. These can be rebranded, upgraded versions of mainstream models that command a price premiums."
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "img": "https://i.ibb.co/VWw2nf1/user-5.png",
+    "rating": 5,
+    "userReview": "This popular segment features truly sporty, luxurious models from prestige brands. Optional equipment can make the prices soar. Reliability varies widely."
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "img": "https://i.ibb.co/cvNFJVB/user-6.png",
+    "rating": 4.5,
+    "userReview": "Small, upscale, and dressed in prestige branding, these entry-level luxury cars often promise more than they deliver. These can be rebranded, upgraded versions of mainstream models that command a price premiums."
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "img": "https://i.ibb.co/2NkDksp/user-9.png",
+    "rating": 5,
+    "userReview": "This popular segment features truly sporty, luxurious models from prestige brands. Optional equipment can make the prices soar. Reliability varies widely."
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "img": "https://i.ibb.co/52VQd5V/user-12.png",
+    "rating": 4,
+    "userReview": "Truly polished cars, the best midsized models define luxury with space, power, and a pampering driving experience. Expect all the latest bells and whistles. AWD is widely available."
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "img": "https://i.ibb.co/kx7sMQK/user-1.png",
+    "rating": 3.5,
+    "userReview": "The top of the car hierarchy, ultra-luxury sedans stand out for their premium packaging, potent powertrains, and leading-edge technology. These are big sedans that command big prices, but they providing a rewarding experience for both driver and passengers."
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "img": "https://i.ibb.co/wRnR6vC/user-2.png",
+    "rating": 4,
+    "userReview": "A first step into the realm of prestige brands, these entry-level models tend to offer some premium touches but fall short of a true luxury experience. These can be derived from humble, rather basic vehicles. Well-equipped mainstream models can be smart alternatives."
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "img": "https://i.ibb.co/VSKZxqw/user-7.png",
+    "rating": 5,
+    "userReview": "These models feel like the essence of a premium brand, compressed into a small package. Performance, handling, and amenities can rise to true luxury levels, though often the price can grow just as precipitously. Cabin space and modest base-level amenities tend to be compromises."
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "img": "https://i.ibb.co/FnD9vzm/user-8.png",
+    "rating": 5,
+    "userReview": "Power, convenience, and comfort are hallmarks of luxury midsized vehicles. Expect high-tech features, premium packaging, and coddling comfort. Many models offer a third seating row. All-wheel drive and advanced safety features are a given."
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "img": "https://i.ibb.co/pZvzcr6/user-3.png",
+    "rating": 3,
+    "userReview": "As roomy, do-it-all vehicles, large luxury SUVs typically provide three seating rows, generous cabin space, and commensurate cargo capacity. Expect the very latest in comfort and convenience tech. Some models are better suited to towing and off-roading"
+  }
+]
