@@ -4,6 +4,6 @@
 
 @layer utilities {
   .navItem {
-   @apply uppercase sm:ml-5 text-purple-500 hover:ring-1 ring-offset-1 px-5 py-1 rounded-lg;
+   @apply uppercase sm:ml-5 text-purple-500 hover:ring-1 ring-offset-1 px-5 py-1 rounded-lg text-base;
   }
 }
