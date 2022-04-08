@@ -5,7 +5,6 @@ import {
   Bar,
   BarChart,
   CartesianGrid,
-  Cell,
   Legend,
   Line,
   LineChart,
@@ -111,6 +110,8 @@ const DashBoard = () => {
             fill="#8884d8"
             label
           />
+          <Legend />
+          <Tooltip />
         </PieChart>
       </ResponsiveContainer>
     </div>

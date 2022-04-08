@@ -6,7 +6,7 @@ const Reviews = () => {
   // eslint-disable-next-line no-unused-vars
   const [reviews, setReviews] = useReview();
   return (
-    <div className="container grid grid-cols-3 gap-4 my-10">
+    <div className="container grid sm:grid-cols-2 md:grid-cols-3 gap-4 my-10">
       {reviews.map((review) => (
         <SingleReview key={review.id} review={review} />
       ))}

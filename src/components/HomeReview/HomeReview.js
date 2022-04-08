@@ -8,7 +8,7 @@ const HomeReview = () => {
   const [reviews, setReviews] = useReview();
   return (
     <>
-      <div className="grid grid-cols-3 gap-4 my-10">
+      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 my-10">
         {reviews.slice(0, 3).map((review) => (
           <SingleReview key={review.id} review={review} />
         ))}
