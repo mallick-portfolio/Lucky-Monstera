@@ -23,7 +23,7 @@ const Navbar = () => {
               <Link to="/reviews" className="inline-block">Reviews</Link>
             </li>
             <li className="navItem">
-              <Link to="/" className="inline-block">Dashboard</Link>
+              <Link to="/dashboard" className="inline-block">Dashboard</Link>
             </li>
             <li className="navItem">
               <Link to="/" className="inline-block">Blogs</Link>
