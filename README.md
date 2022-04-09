@@ -1,6 +1,7 @@
 # Getting Started React Luxuary car SPA website
 
-# [Live Website link](https://lucky-monstera-7c9b29.netlify.app/).
+# Luxuary Car
+ [Live Website link](https://lucky-monstera-7c9b29.netlify.app/).
 
 ## What technology we use
 * This project is make with React JS
