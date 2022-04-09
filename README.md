@@ -1,6 +1,6 @@
 # Getting Started React Luxuary car SPA website
 
-# This project was bootstrapped with [Live Website link](https://lucky-monstera-7c9b29.netlify.app/).
+# [Live Website link](https://lucky-monstera-7c9b29.netlify.app/).
 
 ## What technology we use
 * This project is make with React JS
